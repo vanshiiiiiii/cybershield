@@ -24,7 +24,7 @@ body{background:#08111f;color:white;line-height:1.6;}
 .stat-card h2{color:#00e5ff;font-size:40px;}
 .features{padding:80px 8%;}
 .features h2{text-align:center;margin-bottom:40px;font-size:38px;color:#00e5ff;}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:25px;}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:25px;}
 .card{background:rgba(255,255,255,.05);padding:30px;border-radius:15px;transition:.3s;}
 .card:hover{transform:translateY(-8px);}
 .card i{font-size:40px;color:#00e5ff;margin-bottom:15px;}
